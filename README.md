@@ -13,5 +13,5 @@ This repo contains configs for:
 ```bash
 git clone https://github.com/WorkHardes/sway-configs.git
 cd ./sway-configs
-cp ./.config/* ~/.config/
+cp -r ./.config/* ~/.config/
 ```
